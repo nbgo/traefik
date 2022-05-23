@@ -19,3 +19,6 @@ cover.out
 vendor/
 plugins-storage/
 traefik_changelog.md
+/certs/*
+/template.tpml
+/traefikdev.toml
