@@ -1,0 +1,1 @@
+traefik.exe --configfile=traefikdev.toml
