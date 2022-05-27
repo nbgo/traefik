@@ -2,7 +2,7 @@ module github.com/traefik/traefik
 
 go 1.16
 
-replace github.com/vulcand/oxy v1.2.0 => github.com/nbgo/oxy v1.2.1-0.20220523135559-d5e264160bfb
+replace github.com/vulcand/oxy v1.2.0 => github.com/nbgo/oxy v1.2.1-0.20220527091321-e40a7772998c
 
 require (
 	github.com/ArthurHlt/go-eureka-client v0.0.0-20170403140305-9d0a49cbd39a
